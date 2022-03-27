@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@700&display=swap');
+
+.inicio{
+  background-image: url(images/-1_orig.jpg);
+  background-position: left center;
+  height: 350px;
+  background-repeat: no-repeat;
+  
+
+}
+
+.navbar{
+  background-color: #2F0885;
+}
+
+.menu:hover{
+  color: white;
+}
+
+.aspas{
+  font: normal bold 210px 'Libre Baskerville', sans-serif;
+  width: 140px;
+  height: 90px;
+  margin: 10px auto;
+  color: rgba(128, 128, 128, 0.5);
+}
+
+.second{
+  background-image: url(images/-1_orig.jpg);
+  background-position: left center;
+  background-repeat: no-repeat;
+}
+
+.boxBusca{
+  width: 350px;
+  margin: auto;
+}
+
+.boxCard{
+  transition: all 0.3s ease;
+}
+
+.boxCard:hover{
+  transform: scale(1.07);
+  transition: all 0.3s ease;
+}
+
+.bold{
+  font-weight: bold;
+}
+
+.user{
+  color: #F1910F;
+  font-weight: bold;
+}
+
+.icone{
+  font-size: 25px;
+  padding: 10px;
+  transition: all 0.3s ease;
+}
+
+.icone:hover{
+  transform: scale(1.5);
+}
+
+.lista{
+  background-color: #2F0885;
+  color: white;
+}
+
+.lista:hover{
+  background-color: #3c0ba5;
+  font-weight: bold;
+}
+
+.footer{
+  background-color: #2F0885;
+}
+
+
